@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TourGuideAppOahu</string>
+
+    <string name="museum_1">USS Arizona Memorial</string>
+    <string name="museum_2">Shangri La</string>
+    <string name="museum_3">Iolani Palace</string>
+    <string name="museum_4">Bishop Museum</string>
+    <string name="museum_1_address">1 Arizona Memorial Place, Honolulu, Oahu, HI 96818-3103</string>
+    <string name="museum_2_address">4055 Papu Cir, Honolulu, Oahu, HI 96816-4850</string>
+    <string name="museum_3_address">364 S King St, Honolulu, Oahu, HI 96813-2900</string>
+    <string name="museum_4_address">1525 Bernice St, Honolulu, Oahu, HI 96817-2704</string>
+
+    <string name="park_1">Pupukea Beach Park</string>
+    <string name="park_2">Waimanalo Beach</string>
+    <string name="park_3">Tantalus Lookout Puu Ualakaa State Park</string>
+    <string name="park_4">Lanikai Pillboxes</string>
+    <string name="park_5">Magic Island</string>
+    <string name="park_6">Fort DeRussy Beach Park</string>
+    <string name="park_1_address">59-727 Kamehameha Highway, North Shore, Haleiwa, Oahu, HI 96712</string>
+    <string name="park_2_address">41 Kalanianaole Hwy, Waimanalo, Oahu, HI 96795-1299</string>
+    <string name="park_3_address">Round Top Drive, Honolulu, Oahu, HI 96822</string>
+    <string name="park_4_address">382 Kaelepulu Dr, Aalapapa Drive, Kailua, Oahu, HI 96734-3312</string>
+    <string name="park_5_address">1201 Ala Moana Blvd, At the end of Ala Moana Beach Park, Honolulu, Oahu, HI 96814-4205</string>
+    <string name="park_6_address">Honolulu, Oahu, HI 96815</string>
+
+    <string name="restaurant_1">Sweet E\'s Cafe</string>
+    <string name="restaurant_2">Kono\'s Restaurant</string>
+    <string name="restaurant_3">Seven Brothers</string>
+    <string name="restaurant_4">Waialua Bakery</string>
+    <string name="restaurant_5">Fresh Catch</string>
+    <string name="restaurant_6">Dat Cajun Guyr</string>
+    <string name="restaurant_1_address">1006 Kapahulu Ave, Honolulu, Oahu, HI 96816-1309</string>
+    <string name="restaurant_2_address">66-250 Kamehameha Hwy, Suite G110, Haleiwa, Oahu, HI 96712-1489</string>
+    <string name="restaurant_3_address">56-565 Kamehameha Hwy, Kahuku, Oahu, HI 96731-2202</string>
+    <string name="restaurant_4_address">66-200 Kamehameha Hwy, Haleiwa, Oahu, HI 96712-1421</string>
+    <string name="restaurant_5_address">3109 Waialae Ave, Kaimuki, Honolulu, Oahu, HI 96816-1509</string>
+    <string name="restaurant_6_address">66-197 Kamehameha Hwy, Ste C, Haleiwa, Oahu, HI 96712</string>
+
+    <string name="bar_club_1">Blue Note Hawaii</string>
+    <string name="bar_club_2">Mai Tai Bar at Royal Hawaiian Hotel</string>
+    <string name="bar_club_3">Hard Rock Cafe Honolulu</string>
+    <string name="bar_club_4">Wang Chung\'s Karaoke Bar</string>
+    <string name="bar_club_5">High &amp; Right Comedy Night</string>
+    <string name="bar_club_6">RumFire</string>
+    <string name="bar_club_7">The Study</string>
+    <string name="bar_club_8">Study Hall Sports Bar &amp; Grill</string>
+    <string name="bar_club_1_address">2335 Kalakaua Ave, 96815, Honolulu, Oahu, HI 96815-2941</string>
+    <string name="bar_club_2_address">2259 Kalakaua Ave, Waikiki, Honolulu, Oahu, HI 96815-2515</string>
+    <string name="bar_club_3_address">280 Beach Walk, Honolulu, Oahu, HI 96815-1931</string>
+    <string name="bar_club_4_address">2424 Koa Ave, Honolulu, Oahu, HI 96815-6200t</string>
+    <string name="bar_club_5_address">2055 Kalia Rd, Honolulu, Oahu, HI 96815-1948</string>
+    <string name="bar_club_6_address">2255 Kalakaua Ave, Honolulu, Oahu, HI 96815-2515</string>
+    <string name="bar_club_7_address">1775 Ala Moana Blvd, The Modern Honolulu, Honolulu, Oahu, HI 96815-1603</string>
+    <string name="bar_club_8_address">1019 University Ave, Honolulu, HI 96826</string>
+</resources>
