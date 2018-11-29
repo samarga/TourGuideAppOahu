@@ -14,11 +14,9 @@ import java.util.ArrayList;
 
 public class CityAttractionAdapter extends ArrayAdapter<CityAttraction> {
 
-    private ArrayList<CityAttraction> mCityAttractionsList;
 
     public CityAttractionAdapter(Context context, ArrayList<CityAttraction> attractions) {
         super(context, 0, attractions);
-        mCityAttractionsList = attractions;
     }
 
     @Override

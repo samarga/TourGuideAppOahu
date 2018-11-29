@@ -1,19 +1,20 @@
 package com.samarg.oahutourguide;
 
+import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+
+
 public class CityAttractionTypeAdapter extends FragmentPagerAdapter {
-    private String[] mTabTitles = new String[] { "Parks", "Museums", "Restaurants", "Bars / Clubs"};
 
-    public CityAttractionTypeAdapter(FragmentManager fm) {
+    /** Context of the app */
+    private Context mContext;
+
+    public CityAttractionTypeAdapter(Context context, FragmentManager fm) {
         super(fm);
-    }
-
-    @Override
-    public int getCount() {
-        return 4;
+        mContext = context;
     }
 
     @Override
@@ -31,8 +32,24 @@ public class CityAttractionTypeAdapter extends FragmentPagerAdapter {
 
     }
 
+
+    @Override
+    public int getCount() {
+        return 4;
+    }
+
+
     @Override
     public CharSequence getPageTitle(int position) {
-        return mTabTitles[position];
+        if (position == 0) {
+            return mContext.getString(R.string.category_1);
+        } else if (position == 1) {
+            return mContext.getString(R.string.category_2);
+        } else if (position == 2) {
+            return mContext.getString(R.string.category_3);
+        } else {
+            return mContext.getString(R.string.category_4);
+        }
     }
+
 }
